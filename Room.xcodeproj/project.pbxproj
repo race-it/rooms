@@ -28,10 +28,10 @@
 		2884BBC322AD4A040013ED24 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		2884BBC622AD4A040013ED24 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2884BBC822AD4A040013ED24 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		28EFC71E22AD4D6D006B217E /* Room.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Room.swift; path = ../../../Desktop/test/Room.swift; sourceTree = "<group>"; };
-		28EFC71F22AD4D6D006B217E /* RoomDetail.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = RoomDetail.swift; path = ../../../Desktop/test/RoomDetail.swift; sourceTree = "<group>"; };
-		28EFC72022AD4D6D006B217E /* Room.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Room.xcassets; path = ../../../Desktop/test/Room.xcassets; sourceTree = "<group>"; };
-		28EFC72122AD4D6D006B217E /* RoomStore.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = RoomStore.swift; path = ../../../Desktop/test/RoomStore.swift; sourceTree = "<group>"; };
+		28EFC71E22AD4D6D006B217E /* Room.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Room.swift; sourceTree = "<group>"; };
+		28EFC71F22AD4D6D006B217E /* RoomDetail.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RoomDetail.swift; sourceTree = "<group>"; };
+		28EFC72022AD4D6D006B217E /* Room.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Room.xcassets; sourceTree = "<group>"; };
+		28EFC72122AD4D6D006B217E /* RoomStore.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RoomStore.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
